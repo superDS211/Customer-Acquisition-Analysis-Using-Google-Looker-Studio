@@ -10,7 +10,7 @@ The analysis covers;
 - Cost per app install
 
 ### Data Visualization
-The data visualization is designed using Google Looker Studio.
+The data visualization is designed on Google Looker Studio.
 
 View [Interactive Dashboard](https://datastudio.google.com/reporting/50c0b434-842d-47e3-a60b-1c4c36184564)
 
