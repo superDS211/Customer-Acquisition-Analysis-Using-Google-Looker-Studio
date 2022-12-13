@@ -1,5 +1,5 @@
 ## Customer Acquisition Analysis Using Google Looker Studio
-This is a customer acquisition analysis using the customer app acquisition report from 2020 to 2022. The analysis is aimed at reviewing the effectiveness of ad spend on Facebook and Google Ad towards achieving marketing campaign goals.
+This is a customer acquisition analysis using the customer app acquisition report from 2020 to 2022. The analysis is aimed at reviewing the effectiveness of ad spend on Facebook and Google Ads towards achieving marketing campaign goals.
 
 ### Metrics
 The analysis covers;
@@ -15,6 +15,6 @@ The data visualization is designed on Google Looker Studio.
 View [Interactive Dashboard](https://datastudio.google.com/reporting/50c0b434-842d-47e3-a60b-1c4c36184564)
 
 ### Data Visualization
-The insight gotten from the analysis have been put together in the slide deck.
+The insights gotten from the analysis have been put together in the slide deck.
 
 View [Insight Slide Deck](https://docs.google.com/presentation/d/1vlrSTOgv_dCWeOms3PMJf23DgGuXlAgWrU4SpREBlN8/edit?usp=sharing)
